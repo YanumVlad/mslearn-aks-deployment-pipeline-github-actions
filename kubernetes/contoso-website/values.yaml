@@ -1,0 +1,7 @@
+image:
+  registry: contosocontainerregistry14524.azurecr.io
+  name: contoso-website
+  tag: latest
+
+dns:
+  name: contoso-video-5351889d.hcp.westus2.azmk8s.io
