@@ -4,4 +4,4 @@ image:
   tag: latest
 
 dns:
-  name: contoso-video-5351889d.hcp.westus2.azmk8s.io
+  name: 0ab681f9acde41fa8493.westus2.aksapp.io
